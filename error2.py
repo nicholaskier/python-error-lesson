@@ -1,0 +1,1 @@
+# python will raise an error if you try to divide by 0

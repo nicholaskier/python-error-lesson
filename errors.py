@@ -6,6 +6,7 @@ print(2)
 # print 3
 # python functions need parenthesis
 a = [1,2,3]
+# square brackets mean that python is expecting a list
 # syntax syntax syntax
 # exceptions
 # RUNTIME ERRORS
@@ -15,3 +16,5 @@ print(int(2.5))
 # closing parenthesis 
 print(a + b)
 # trying to add an integer and a string
+print(c)
+# c is not defined
